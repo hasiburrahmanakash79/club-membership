@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "amount": "$50",
+      "description": "Access to the club facilities during off-peak hours",
+      "advantage": "Low cost, perfect for occasional visitors"
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "amount": "$100",
+      "description": "Access to the club facilities during peak hours",
+      "advantage": "Great for frequent visitors and weekend warriors"
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "amount": "$150",
+      "description": "Access to the club facilities during peak hours and discounts on club events",
+      "advantage": "Ideal for fitness enthusiasts and those who attend club events regularly"
+    },
+    {
+      "id": 4,
+      "name": "VIP",
+      "amount": "$300",
+      "description": "Access to the club facilities at all times, discounts on club events, and priority booking for club amenities",
+      "advantage": "The ultimate membership option for VIP treatment and access to all club amenities"
+    }
+]
+  
