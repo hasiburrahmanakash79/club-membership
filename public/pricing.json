@@ -1,31 +1,46 @@
 [
-    {
-      "id": 1,
-      "name": "Basic",
-      "amount": "$50",
-      "description": "Access to the club facilities during off-peak hours",
-      "advantage": "Low cost, perfect for occasional visitors"
-    },
-    {
-      "id": 2,
-      "name": "Standard",
-      "amount": "$100",
-      "description": "Access to the club facilities during peak hours",
-      "advantage": "Great for frequent visitors and weekend warriors"
-    },
-    {
-      "id": 3,
-      "name": "Premium",
-      "amount": "$150",
-      "description": "Access to the club facilities during peak hours and discounts on club events",
-      "advantage": "Ideal for fitness enthusiasts and those who attend club events regularly"
-    },
-    {
-      "id": 4,
-      "name": "VIP",
-      "amount": "$300",
-      "description": "Access to the club facilities at all times, discounts on club events, and priority booking for club amenities",
-      "advantage": "The ultimate membership option for VIP treatment and access to all club amenities"
-    }
+  {
+    "id": 1,
+    "name": "Basic",
+    "amount": "$50",
+    "features": [
+      "Access to gym equipment off-peak hours",
+      "Access to pool and spa off-peak hours",
+      "Discounts on club events and classes"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "amount": "$100",
+    "features": [
+      "Access to gym equipment during peak hours",
+      "Access to pool and spa during peak hours",
+      "Discounts on club events and classes"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "amount": "$150",
+    "features": [
+      "Access to gym equipment during peak hours",
+      "Access to pool and spa during peak hours",
+      "Discounts on club events and classes",
+      "Complimentary personal training session"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "VIP",
+    "amount": "$300",
+    "features": [
+      "Access to gym equipment at all times",
+      "Access to pool and spa at all times",
+      "Discounts on club events and classes",
+      "Priority booking for club amenities",
+      "Complimentary personal training session",
+      "Complimentary massage"
+    ]
+  }
 ]
-  
