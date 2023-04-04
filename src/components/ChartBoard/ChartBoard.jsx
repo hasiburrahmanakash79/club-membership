@@ -22,7 +22,7 @@ const ChartBoard = () => {
       ];
       
     return (
-        <div className='py-10 mx-auto'>
+        <div className='py-10 px-10 mx-auto'>
             <h2 className='mt-10 text-center text-4xl font-bold'>Your Dashboard</h2>
             <LineChart
             width={1000}
